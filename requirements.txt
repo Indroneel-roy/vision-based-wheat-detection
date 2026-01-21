@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+ultralytics
+opencv-python
+pillow
+
+# Frontend Requirements
+streamlit
+requests
+
+# ML/AI
+torch
+torchvision
+numpy
