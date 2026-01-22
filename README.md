@@ -2,7 +2,7 @@
 
 An AI-powered system that automatically detects and counts wheat heads in images using YOLOv11 deep learning model.
 
-![Live Demo](https://img.shields.io/badge/🤗-Live%20Demo-yellow)(https://huggingface.co/spaces/Indroneel/wheat-detection)
+[![Live Demo](https://img.shields.io/badge/🤗-Live%20Demo-yellow)](https://huggingface.co/spaces/Indroneel/wheat-detection)
 
 ## 🎯 What is This?
 
